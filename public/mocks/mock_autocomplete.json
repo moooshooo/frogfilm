@@ -1,0 +1,124 @@
+{
+  "results": [
+    {
+      "id": 1,
+      "name": "The Exorcist",
+      "year": 1973,
+      "image_url": "https://image.tmdb.org/t/p/w300/3fvdQ5ZLCFqzXxzs4Zz6ZxkQF2B.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Hereditary",
+      "year": 2018,
+      "image_url": "https://image.tmdb.org/t/p/w300/lHV8HHlhwNup2VbpiACtlKzaGIQ.jpg"
+    },
+    {
+      "id": 3,
+      "name": "The Thing",
+      "year": 1982,
+      "image_url": "https://image.tmdb.org/t/p/w300/pwTjpS1iW1DT5ZOCz2mLh8vZpXc.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Evil Dead Rise",
+      "year": 2023,
+      "image_url": "https://image.tmdb.org/t/p/w300/mIBptPs7cOjZfD7tUcw2G2BvknB.jpg"
+    },
+    {
+      "id": 5,
+      "name": "The Texas Chain Saw Massacre",
+      "year": 1974,
+      "image_url": "https://image.tmdb.org/t/p/w300/8hYpWzdbFiD2B3x0jG7vSScvLJx.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Saw",
+      "year": 2004,
+      "image_url": "https://image.tmdb.org/t/p/w300/dHYvIgsax8ZFgkz1OslE4V6Pnf5.jpg"
+    },
+    {
+      "id": 7,
+      "name": "The Descent",
+      "year": 2005,
+      "image_url": "https://image.tmdb.org/t/p/w300/6XUhsR6iKpPHkFdx6Y7YqG2UvhF.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Midsommar",
+      "year": 2019,
+      "image_url": "https://image.tmdb.org/t/p/w300/rXsh4MI6uyVgZBSSzXCfitJnVPy.jpg"
+    },
+    {
+      "id": 9,
+      "name": "The Conjuring",
+      "year": 2013,
+      "image_url": "https://image.tmdb.org/t/p/w300/wVYREutTvI2tmxr6ujrHT704wGF.jpg"
+    },
+    {
+      "id": 10,
+      "name": "The Cabin in the Woods",
+      "year": 2012,
+      "image_url": "https://image.tmdb.org/t/p/w300/t5KONotASgVKq4N19RyhIthWOPs.jpg"
+    },
+    {
+      "id": 11,
+      "name": "It",
+      "year": 2017,
+      "image_url": "https://image.tmdb.org/t/p/w300/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg"
+    },
+    {
+      "id": 12,
+      "name": "The Evil Dead",
+      "year": 1981,
+      "image_url": "https://image.tmdb.org/t/p/w300/ay4xjXNWJZPZ6mV4lF6lR84W9bO.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Suspiria",
+      "year": 1977,
+      "image_url": "https://image.tmdb.org/t/p/w300/tkK19s8R8oRUuV0QYjZg3VykY3f.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Hellraiser",
+      "year": 1987,
+      "image_url": "https://image.tmdb.org/t/p/w300/3ZPzSBsN9MT0DdFQ2gGFMbB7bMi.jpg"
+    },
+    {
+      "id": 15,
+      "name": "The Babadook",
+      "year": 2014,
+      "image_url": "https://image.tmdb.org/t/p/w300/k5W3tZBWtnZsHAAQzmDLDxA1v1F.jpg"
+    },
+    {
+      "id": 16,
+      "name": "28 Days Later",
+      "year": 2002,
+      "image_url": "https://image.tmdb.org/t/p/w300/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg"
+    },
+    {
+      "id": 17,
+      "name": "The Blair Witch Project",
+      "year": 1999,
+      "image_url": "https://image.tmdb.org/t/p/w300/5G6mBKhRy3MijbZ9YvX9L0fHSgM.jpg"
+    },
+    {
+      "id": 18,
+      "name": "The Autopsy of Jane Doe",
+      "year": 2016,
+      "image_url": "https://image.tmdb.org/t/p/w300/2bIlUeFS4UudU9WQxN8dZP5UtNM.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Hostel",
+      "year": 2005,
+      "image_url": "https://image.tmdb.org/t/p/w300/qU6yfQAZtX0P5Vq0Q6oXxCziCxw.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Martyrs",
+      "year": 2008,
+      "image_url": "https://image.tmdb.org/t/p/w300/d7R9Tt0bZUkV4xKUlV5uEBYr0cF.jpg"
+    }
+  ]
+}
